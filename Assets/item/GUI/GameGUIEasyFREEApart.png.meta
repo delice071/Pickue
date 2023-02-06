@@ -1,0 +1,6745 @@
+fileFormatVersion: 2
+guid: e805e760dc8ebb14fb13b44560ee4595
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1500535153005674084
+    second: GameGUIEasyFREEApart_0
+  - first:
+      213: -3424511382403314734
+    second: GameGUIEasyFREEApart_1
+  - first:
+      213: 1189815555537406221
+    second: GameGUIEasyFREEApart_2
+  - first:
+      213: 6131788772371553166
+    second: GameGUIEasyFREEApart_3
+  - first:
+      213: -1290652668178000763
+    second: GameGUIEasyFREEApart_4
+  - first:
+      213: 5653804776046006105
+    second: GameGUIEasyFREEApart_5
+  - first:
+      213: 2970232777584890941
+    second: GameGUIEasyFREEApart_6
+  - first:
+      213: 4333784128749080702
+    second: GameGUIEasyFREEApart_7
+  - first:
+      213: -5980102286227260810
+    second: GameGUIEasyFREEApart_8
+  - first:
+      213: 4032251586774714481
+    second: GameGUIEasyFREEApart_9
+  - first:
+      213: -3766370388156592990
+    second: GameGUIEasyFREEApart_10
+  - first:
+      213: -1777292356221173383
+    second: GameGUIEasyFREEApart_11
+  - first:
+      213: -8073027158121993945
+    second: GameGUIEasyFREEApart_12
+  - first:
+      213: 8067660689272698126
+    second: GameGUIEasyFREEApart_13
+  - first:
+      213: 3847218119944301338
+    second: GameGUIEasyFREEApart_14
+  - first:
+      213: 573915991961691546
+    second: GameGUIEasyFREEApart_15
+  - first:
+      213: 705950097445976738
+    second: GameGUIEasyFREEApart_16
+  - first:
+      213: -4236100907985016816
+    second: GameGUIEasyFREEApart_17
+  - first:
+      213: 5019230505803794443
+    second: GameGUIEasyFREEApart_21
+  - first:
+      213: 2576762455334148566
+    second: GameGUIEasyFREEApart_22
+  - first:
+      213: 1348777239366011624
+    second: GameGUIEasyFREEApart_24
+  - first:
+      213: 8910330720598643046
+    second: GameGUIEasyFREEApart_25
+  - first:
+      213: 4789260777309889172
+    second: GameGUIEasyFREEApart_26
+  - first:
+      213: 3634128689604803936
+    second: GameGUIEasyFREEApart_27
+  - first:
+      213: -5968935626875403491
+    second: GameGUIEasyFREEApart_28
+  - first:
+      213: 5941499905446929222
+    second: GameGUIEasyFREEApart_30
+  - first:
+      213: -4708145854207151208
+    second: GameGUIEasyFREEApart_31
+  - first:
+      213: 5932343999395868948
+    second: GameGUIEasyFREEApart_32
+  - first:
+      213: 4173927365755233428
+    second: GameGUIEasyFREEApart_33
+  - first:
+      213: 7519591963242457092
+    second: GameGUIEasyFREEApart_34
+  - first:
+      213: -9132081699410513028
+    second: GameGUIEasyFREEApart_39
+  - first:
+      213: 829660377920209345
+    second: GameGUIEasyFREEApart_40
+  - first:
+      213: 5460166998150574262
+    second: GameGUIEasyFREEApart_41
+  - first:
+      213: -1177826622729152908
+    second: GameGUIEasyFREEApart_42
+  - first:
+      213: -4083711411014864773
+    second: GameGUIEasyFREEApart_43
+  - first:
+      213: -2303845309224669760
+    second: GameGUIEasyFREEApart_44
+  - first:
+      213: -7447148017056194651
+    second: GameGUIEasyFREEApart_45
+  - first:
+      213: 3347783876234078364
+    second: GameGUIEasyFREEApart_46
+  - first:
+      213: -6367084516438725999
+    second: GameGUIEasyFREEApart_47
+  - first:
+      213: 5922336720535636870
+    second: GameGUIEasyFREEApart_48
+  - first:
+      213: 4547855572082119819
+    second: GameGUIEasyFREEApart_49
+  - first:
+      213: 2411639937871834569
+    second: GameGUIEasyFREEApart_50
+  - first:
+      213: 3657782627870633762
+    second: GameGUIEasyFREEApart_51
+  - first:
+      213: -3465237447539085945
+    second: GameGUIEasyFREEApart_52
+  - first:
+      213: 321657715526478885
+    second: GameGUIEasyFREEApart_53
+  - first:
+      213: -8574210585948016155
+    second: GameGUIEasyFREEApart_59
+  - first:
+      213: -6186393895952394943
+    second: GameGUIEasyFREEApart_60
+  - first:
+      213: -6829140674863691529
+    second: GameGUIEasyFREEApart_61
+  - first:
+      213: 4544040161976277338
+    second: GameGUIEasyFREEApart_62
+  - first:
+      213: -2684522399926371320
+    second: GameGUIEasyFREEApart_63
+  - first:
+      213: 607602925812253757
+    second: GameGUIEasyFREEApart_64
+  - first:
+      213: 1755582712344607896
+    second: GameGUIEasyFREEApart_65
+  - first:
+      213: 1053449448893919570
+    second: GameGUIEasyFREEApart_66
+  - first:
+      213: -770718335546606212
+    second: GameGUIEasyFREEApart_68
+  - first:
+      213: -5936481523551035700
+    second: GameGUIEasyFREEApart_69
+  - first:
+      213: -9208423060785096951
+    second: GameGUIEasyFREEApart_71
+  - first:
+      213: -77326839430504130
+    second: GameGUIEasyFREEApart_72
+  - first:
+      213: -7474215346665108503
+    second: GameGUIEasyFREEApart_73
+  - first:
+      213: -8982255587384484711
+    second: GameGUIEasyFREEApart_74
+  - first:
+      213: 140197076024156817
+    second: GameGUIEasyFREEApart_75
+  - first:
+      213: -1269504763759993479
+    second: GameGUIEasyFREEApart_81
+  - first:
+      213: -8945616438575876647
+    second: GameGUIEasyFREEApart_82
+  - first:
+      213: -5161595322915755417
+    second: GameGUIEasyFREEApart_83
+  - first:
+      213: -4231326502208571690
+    second: GameGUIEasyFREEApart_84
+  - first:
+      213: -6542967205298997620
+    second: GameGUIEasyFREEApart_85
+  - first:
+      213: 3401083740840991230
+    second: GameGUIEasyFREEApart_86
+  - first:
+      213: 8348901986317887544
+    second: GameGUIEasyFREEApart_87
+  - first:
+      213: -3238854709724150906
+    second: GameGUIEasyFREEApart_88
+  - first:
+      213: -150359151851690724
+    second: GameGUIEasyFREEApart_91
+  - first:
+      213: -6243429095221329302
+    second: GameGUIEasyFREEApart_92
+  - first:
+      213: -3626552751147145721
+    second: GameGUIEasyFREEApart_93
+  - first:
+      213: 9081406586881045596
+    second: GameGUIEasyFREEApart_94
+  - first:
+      213: -8821913871124261062
+    second: GameGUIEasyFREEApart_95
+  - first:
+      213: -6049089923243582781
+    second: GameGUIEasyFREEApart_96
+  - first:
+      213: -2697312210307523636
+    second: GameGUIEasyFREEApart_97
+  - first:
+      213: 3610821607057333697
+    second: GameGUIEasyFREEApart_98
+  - first:
+      213: -2389898061657652859
+    second: GameGUIEasyFREEApart_99
+  - first:
+      213: 3522670059133092157
+    second: GameGUIEasyFREEApart_100
+  - first:
+      213: -3633528050379753031
+    second: GameGUIEasyFREEApart_101
+  - first:
+      213: -3660093042260171654
+    second: GameGUIEasyFREEApart_102
+  - first:
+      213: 8331888794169986442
+    second: GameGUIEasyFREEApart_103
+  - first:
+      213: -75428668523373447
+    second: GameGUIEasyFREEApart_104
+  - first:
+      213: 5819238470877319209
+    second: GameGUIEasyFREEApart_105
+  - first:
+      213: -1925564721316441330
+    second: GameGUIEasyFREEApart_106
+  - first:
+      213: 4130354280265569579
+    second: GameGUIEasyFREEApart_107
+  - first:
+      213: 7591082184183945452
+    second: GameGUIEasyFREEApart_108
+  - first:
+      213: -5620946087303102316
+    second: GameGUIEasyFREEApart_110
+  - first:
+      213: -237718154060816068
+    second: GameGUIEasyFREEApart_111
+  - first:
+      213: 5432340033288051163
+    second: GameGUIEasyFREEApart_112
+  - first:
+      213: -1641417081167214532
+    second: GameGUIEasyFREEApart_121
+  - first:
+      213: -6833825684297095095
+    second: GameGUIEasyFREEApart_122
+  - first:
+      213: 5896420150148735109
+    second: GameGUIEasyFREEApart_123
+  - first:
+      213: 853637818660127254
+    second: GameGUIEasyFREEApart_124
+  - first:
+      213: -5230939793298359321
+    second: GameGUIEasyFREEApart_125
+  - first:
+      213: 9032469732167236214
+    second: GameGUIEasyFREEApart_126
+  - first:
+      213: 3178539292845152294
+    second: GameGUIEasyFREEApart_127
+  - first:
+      213: -6213081565861386347
+    second: GameGUIEasyFREEApart_132
+  - first:
+      213: -8194000114075713814
+    second: GameGUIEasyFREEApart_133
+  - first:
+      213: -4064464683459423868
+    second: GameGUIEasyFREEApart_134
+  - first:
+      213: -2450527808009506908
+    second: GameGUIEasyFREEApart_135
+  - first:
+      213: 5332264198700658062
+    second: GameGUIEasyFREEApart_136
+  - first:
+      213: -2740722566334361439
+    second: GameGUIEasyFREEApart_137
+  - first:
+      213: -1614273198820565351
+    second: GameGUIEasyFREEApart_138
+  - first:
+      213: -4213747437358350539
+    second: GameGUIEasyFREEApart_139
+  - first:
+      213: 3357751409761078026
+    second: GameGUIEasyFREEApart_140
+  - first:
+      213: -7845528880836210946
+    second: GameGUIEasyFREEApart_141
+  - first:
+      213: -6469483371761428250
+    second: GameGUIEasyFREEApart_142
+  - first:
+      213: -457331299235488895
+    second: GameGUIEasyFREEApart_143
+  - first:
+      213: 7237473668566388749
+    second: GameGUIEasyFREEApart_145
+  - first:
+      213: -2954022947772948398
+    second: GameGUIEasyFREEApart_149
+  - first:
+      213: -4556711062204434332
+    second: GameGUIEasyFREEApart_150
+  - first:
+      213: -7240406568692748826
+    second: GameGUIEasyFREEApart_151
+  - first:
+      213: 1273753187526734116
+    second: GameGUIEasyFREEApart_152
+  - first:
+      213: 4716264127482270547
+    second: GameGUIEasyFREEApart_153
+  - first:
+      213: 1589550434698803241
+    second: GameGUIEasyFREEApart_154
+  - first:
+      213: -1036158587202017545
+    second: GameGUIEasyFREEApart_155
+  - first:
+      213: -1346376141616032783
+    second: GameGUIEasyFREEApart_156
+  - first:
+      213: 8871313250179600499
+    second: GameGUIEasyFREEApart_158
+  - first:
+      213: -4615526834359775431
+    second: GameGUIEasyFREEApart_159
+  - first:
+      213: 4936498356297473620
+    second: GameGUIEasyFREEApart_160
+  - first:
+      213: -4479536488779509210
+    second: GameGUIEasyFREEApart_161
+  - first:
+      213: 5576922987288392698
+    second: GameGUIEasyFREEApart_162
+  - first:
+      213: 4633466543810554342
+    second: GameGUIEasyFREEApart_163
+  - first:
+      213: 5219324213481112342
+    second: GameGUIEasyFREEApart_164
+  - first:
+      213: -8942020118230776564
+    second: GameGUIEasyFREEApart_165
+  - first:
+      213: 8143939740127210231
+    second: GameGUIEasyFREEApart_169
+  - first:
+      213: 5269944699317597562
+    second: GameGUIEasyFREEApart_170
+  - first:
+      213: -5173947507959100909
+    second: GameGUIEasyFREEApart_171
+  - first:
+      213: -1081446335678055257
+    second: GameGUIEasyFREEApart_172
+  - first:
+      213: 280061991063358814
+    second: GameGUIEasyFREEApart_176
+  - first:
+      213: -3472670172925466330
+    second: GameGUIEasyFREEApart_177
+  - first:
+      213: -5795266654828796188
+    second: GameGUIEasyFREEApart_178
+  - first:
+      213: -5374617548549405495
+    second: GameGUIEasyFREEApart_179
+  - first:
+      213: 429255172223337319
+    second: GameGUIEasyFREEApart_180
+  - first:
+      213: 7585864691039651527
+    second: GameGUIEasyFREEApart_181
+  - first:
+      213: 645095823592407327
+    second: GameGUIEasyFREEApart_182
+  - first:
+      213: 1256769743964533453
+    second: GameGUIEasyFREEApart_183
+  - first:
+      213: 1820715035427463876
+    second: GameGUIEasyFREEApart_184
+  - first:
+      213: 6524459403840832647
+    second: GameGUIEasyFREEApart_186
+  - first:
+      213: -8354366927598114856
+    second: GameGUIEasyFREEApart_187
+  - first:
+      213: -8895562632396031852
+    second: GameGUIEasyFREEApart_188
+  - first:
+      213: -8519196678190960262
+    second: GameGUIEasyFREEApart_189
+  - first:
+      213: -5419293550758903293
+    second: GameGUIEasyFREEApart_190
+  - first:
+      213: 4418070525088405916
+    second: GameGUIEasyFREEApart_191
+  - first:
+      213: 760324290202148211
+    second: GameGUIEasyFREEApart_192
+  - first:
+      213: -2197867937435923585
+    second: GameGUIEasyFREEApart_193
+  - first:
+      213: -6341098901547427880
+    second: GameGUIEasyFREEApart_194
+  - first:
+      213: 1633684253388724538
+    second: GameGUIEasyFREEApart_195
+  - first:
+      213: -2381701271087395836
+    second: GameGUIEasyFREEApart_197
+  - first:
+      213: -4280329407195520254
+    second: GameGUIEasyFREEApart_198
+  - first:
+      213: 8798710424824543075
+    second: GameGUIEasyFREEApart_199
+  - first:
+      213: -4899148966035724506
+    second: GameGUIEasyFREEApart_200
+  - first:
+      213: 7131238806040123752
+    second: GameGUIEasyFREEApart_201
+  - first:
+      213: 4585518455612164556
+    second: GameGUIEasyFREEApart_202
+  - first:
+      213: -7755498675097816753
+    second: GameGUIEasyFREEApart_203
+  - first:
+      213: -1287986122386304328
+    second: GameGUIEasyFREEApart_204
+  - first:
+      213: 5589056468046775608
+    second: GameGUIEasyFREEApart_205
+  - first:
+      213: -4826214949040540662
+    second: GameGUIEasyFREEApart_206
+  - first:
+      213: 8031398414665749222
+    second: GameGUIEasyFREEApart_207
+  - first:
+      213: 8853272091600911749
+    second: GameGUIEasyFREEApart_208
+  - first:
+      213: -3879659995857394180
+    second: GameGUIEasyFREEApart_209
+  - first:
+      213: 3227624769910286665
+    second: GameGUIEasyFREEApart_210
+  - first:
+      213: -5319802461670860126
+    second: GameGUIEasyFREEApart_211
+  - first:
+      213: -3152048668853619113
+    second: GameGUIEasyFREEApart_212
+  - first:
+      213: -787764957787931555
+    second: GameGUIEasyFREEApart_213
+  - first:
+      213: 2607903817370841690
+    second: GameGUIEasyFREEApart_214
+  - first:
+      213: -2857966825719036068
+    second: GameGUIEasyFREEApart_215
+  - first:
+      213: -5522172260567248000
+    second: GameGUIEasyFREEApart_216
+  - first:
+      213: -3901606984217796386
+    second: GameGUIEasyFREEApart_217
+  - first:
+      213: -8424652071414075768
+    second: GameGUIEasyFREEApart_218
+  - first:
+      213: 3673252965293499893
+    second: GameGUIEasyFREEApart_219
+  - first:
+      213: 7267849941609914290
+    second: GameGUIEasyFREEApart_220
+  - first:
+      213: -6650095848213814640
+    second: GameGUIEasyFREEApart_221
+  - first:
+      213: 3519461849445675878
+    second: GameGUIEasyFREEApart_222
+  - first:
+      213: 2486400922346042493
+    second: GameGUIEasyFREEApart_223
+  - first:
+      213: -7393187763657128432
+    second: GameGUIEasyFREEApart_224
+  - first:
+      213: 5927808053836428708
+    second: GameGUIEasyFREEApart_225
+  - first:
+      213: -7532357678926216243
+    second: GameGUIEasyFREEApart_226
+  - first:
+      213: -8504987105261316288
+    second: GameGUIEasyFREEApart_227
+  - first:
+      213: 89236671357604256
+    second: GameGUIEasyFREEApart_228
+  - first:
+      213: 1759891959005878107
+    second: GameGUIEasyFREEApart_229
+  - first:
+      213: 4252891856700760945
+    second: GameGUIEasyFREEApart_230
+  - first:
+      213: -8306794827969474132
+    second: GameGUIEasyFREEApart_231
+  - first:
+      213: -5718327886775347035
+    second: GameGUIEasyFREEApart_232
+  - first:
+      213: -1388529928211239981
+    second: GameGUIEasyFREEApart_233
+  - first:
+      213: -5991697713186249023
+    second: GameGUIEasyFREEApart_234
+  - first:
+      213: 8359929552940182222
+    second: GameGUIEasyFREEApart_235
+  - first:
+      213: 3682786765733853959
+    second: GameGUIEasyFREEApart_236
+  - first:
+      213: 6239999022901391220
+    second: GameGUIEasyFREEApart_237
+  - first:
+      213: -1958685565873587740
+    second: GameGUIEasyFREEApart_238
+  - first:
+      213: -288453202172921460
+    second: GameGUIEasyFREEApart_239
+  - first:
+      213: 8051884332867687012
+    second: GameGUIEasyFREEApart_240
+  - first:
+      213: 5777041730301432665
+    second: GameGUIEasyFREEApart_241
+  - first:
+      213: 4265349901851315070
+    second: GameGUIEasyFREEApart_242
+  - first:
+      213: 840082301081766247
+    second: GameGUIEasyFREEApart_243
+  - first:
+      213: 7605709094906094413
+    second: GameGUIEasyFREEApart_244
+  - first:
+      213: -5117563423032079716
+    second: GameGUIEasyFREEApart_245
+  - first:
+      213: 3454949882362377804
+    second: GameGUIEasyFREEApart_246
+  - first:
+      213: 4830079088843189382
+    second: GameGUIEasyFREEApart_247
+  - first:
+      213: -3550794051219291163
+    second: GameGUIEasyFREEApart_248
+  - first:
+      213: -6471995856716074788
+    second: GameGUIEasyFREEApart_249
+  - first:
+      213: -6761601015747465630
+    second: GameGUIEasyFREEApart_250
+  - first:
+      213: 791399306934437959
+    second: GameGUIEasyFREEApart_251
+  - first:
+      213: -5736556568960758099
+    second: GameGUIEasyFREEApart_252
+  - first:
+      213: -7926647559264499283
+    second: GameGUIEasyFREEApart_253
+  - first:
+      213: -5784430955239424961
+    second: GameGUIEasyFREEApart_254
+  - first:
+      213: -337682268952942980
+    second: GameGUIEasyFREEApart_255
+  - first:
+      213: 7010713076390108205
+    second: GameGUIEasyFREEApart_256
+  - first:
+      213: -8634661995478758753
+    second: GameGUIEasyFREEApart_257
+  - first:
+      213: 227973720471929176
+    second: GameGUIEasyFREEApart_258
+  - first:
+      213: 197109076045928156
+    second: GameGUIEasyFREEApart_259
+  - first:
+      213: 5874569754871288120
+    second: GameGUIEasyFREEApart_260
+  - first:
+      213: 1188324222090250100
+    second: GameGUIEasyFREEApart_261
+  - first:
+      213: 6213180041608940763
+    second: GameGUIEasyFREEApart_262
+  - first:
+      213: -4630700089760947763
+    second: GameGUIEasyFREEApart_263
+  - first:
+      213: 6083347401319327838
+    second: GameGUIEasyFREEApart_264
+  - first:
+      213: 2835703713667944015
+    second: GameGUIEasyFREEApart_265
+  - first:
+      213: -1290303953369486928
+    second: GameGUIEasyFREEApart_266
+  - first:
+      213: -7153228672020477333
+    second: GameGUIEasyFREEApart_267
+  - first:
+      213: -1184740500358031070
+    second: GameGUIEasyFREEApart_268
+  - first:
+      213: 9029026860854149848
+    second: GameGUIEasyFREEApart_269
+  - first:
+      213: -6865992822573058640
+    second: GameGUIEasyFREEApart_270
+  - first:
+      213: 7803014869491982925
+    second: GameGUIEasyFREEApart_271
+  - first:
+      213: 166115559528944740
+    second: GameGUIEasyFREEApart_272
+  - first:
+      213: -7125768957153559268
+    second: GameGUIEasyFREEApart_273
+  - first:
+      213: -7682444618355878638
+    second: GameGUIEasyFREEApart_274
+  - first:
+      213: 1930270110148370220
+    second: GameGUIEasyFREEApart_275
+  - first:
+      213: 6241735685018072956
+    second: GameGUIEasyFREEApart_276
+  - first:
+      213: 2083923092253847093
+    second: GameGUIEasyFREEApart_277
+  - first:
+      213: -4923707198524256089
+    second: GameGUIEasyFREEApart_278
+  - first:
+      213: -2133269320638241999
+    second: GameGUIEasyFREEApart_279
+  - first:
+      213: -6385375467005212796
+    second: GameGUIEasyFREEApart_280
+  - first:
+      213: 7738132964735327348
+    second: GameGUIEasyFREEApart_281
+  - first:
+      213: -1488558768429986010
+    second: GameGUIEasyFREEApart_282
+  - first:
+      213: 4961852366703752884
+    second: GameGUIEasyFREEApart_283
+  - first:
+      213: 226004998726065011
+    second: GameGUIEasyFREEApart_284
+  - first:
+      213: 5811322411840093403
+    second: GameGUIEasyFREEApart_285
+  - first:
+      213: -7611398419078235402
+    second: GameGUIEasyFREEApart_286
+  - first:
+      213: 6875313424865667426
+    second: GameGUIEasyFREEApart_287
+  - first:
+      213: -8151574696721260265
+    second: GameGUIEasyFREEApart_288
+  - first:
+      213: 4575053755432260715
+    second: GameGUIEasyFREEApart_289
+  - first:
+      213: 6481634772056049643
+    second: GameGUIEasyFREEApart_290
+  - first:
+      213: 6330995347578955428
+    second: GameGUIEasyFREEApart_291
+  - first:
+      213: -1537953222355250276
+    second: GameGUIEasyFREEApart_292
+  - first:
+      213: -5372899042924531108
+    second: GameGUIEasyFREEApart_293
+  - first:
+      213: -3989099423863853835
+    second: GameGUIEasyFREEApart_294
+  - first:
+      213: 6926197126166154818
+    second: GameGUIEasyFREEApart_295
+  - first:
+      213: 5989533166685699220
+    second: GameGUIEasyFREEApart_296
+  - first:
+      213: 6995988905976629835
+    second: GameGUIEasyFREEApart_297
+  - first:
+      213: 2808012848994716929
+    second: GameGUIEasyFREEApart_298
+  - first:
+      213: -3687104407277226332
+    second: GameGUIEasyFREEApart_299
+  - first:
+      213: -3964950729707927609
+    second: GameGUIEasyFREEApart_300
+  - first:
+      213: -4002880686658333767
+    second: GameGUIEasyFREEApart_301
+  - first:
+      213: -7850454450133226420
+    second: GameGUIEasyFREEApart_302
+  - first:
+      213: -8116487135495247523
+    second: GameGUIEasyFREEApart_303
+  - first:
+      213: 170894085506346395
+    second: GameGUIEasyFREEApart_304
+  - first:
+      213: -7322779312710185327
+    second: GameGUIEasyFREEApart_305
+  - first:
+      213: -4603236827435060901
+    second: GameGUIEasyFREEApart_306
+  - first:
+      213: -211966463657890294
+    second: GameGUIEasyFREEApart_307
+  - first:
+      213: -5927630968773247952
+    second: GameGUIEasyFREEApart_308
+  - first:
+      213: 3774424134931498904
+    second: GameGUIEasyFREEApart_309
+  - first:
+      213: -1827328682382255314
+    second: GameGUIEasyFREEApart_310
+  - first:
+      213: 842025502798560998
+    second: GameGUIEasyFREEApart_311
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_0
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 6260
+        width: 687
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c914c108a370d2be0800000000000000
+      internalID: -1500535153005674084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_1
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 6236
+        width: 711
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db8192aa01b970d0800000000000000
+      internalID: -3424511382403314734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 6013
+        width: 567
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d098a00a1f2138010800000000000000
+      internalID: 1189815555537406221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_3
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 5986
+        width: 590
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b5fee966d781550800000000000000
+      internalID: 6131788772371553166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 5763
+        width: 567
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58417d88c3ea61ee0800000000000000
+      internalID: -1290652668178000763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_5
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 5736
+        width: 590
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f01a91d79567e40800000000000000
+      internalID: 5653804776046006105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_6
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 4552
+        width: 969
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d345b2869f2683920800000000000000
+      internalID: 2970232777584890941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_7
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 5654
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70905724b1b42c30800000000000000
+      internalID: 4333784128749080702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 5513
+        width: 797
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a3ce497a8620da0800000000000000
+      internalID: -5980102286227260810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_9
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 5490
+        width: 821
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17846b2547f65f730800000000000000
+      internalID: 4032251586774714481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_10
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 5353
+        width: 422
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac4069461a2bbbc0800000000000000
+      internalID: -3766370388156592990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_11
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 4572
+        width: 965
+        height: 1191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9718b6db40ac557e0800000000000000
+      internalID: -1777292356221173383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5263
+        width: 969
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729ae0a8298d6ff80800000000000000
+      internalID: -8073027158121993945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_13
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 5240
+        width: 969
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e057b7017a616ff60800000000000000
+      internalID: 8067660689272698126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_14
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 5130
+        width: 422
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1be9b42f70146530800000000000000
+      internalID: 3847218119944301338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 5017
+        width: 547
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95eacfcd85f6f700800000000000000
+      internalID: 573915991961691546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_16
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 4990
+        width: 575
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa7b639fd90cc900800000000000000
+      internalID: 705950097445976738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_17
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 4908
+        width: 422
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018e7d20ba85635c0800000000000000
+      internalID: -4236100907985016816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_21
+      rect:
+        serializedVersion: 2
+        x: 5594
+        y: 4997
+        width: 1070
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b084d305d83e7a540800000000000000
+      internalID: 5019230505803794443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_22
+      rect:
+        serializedVersion: 2
+        x: 6699
+        y: 4630
+        width: 754
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d951c40dcf72c320800000000000000
+      internalID: 2576762455334148566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_24
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 4767
+        width: 797
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea0b89c0c1d7b210800000000000000
+      internalID: 1348777239366011624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_25
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 4743
+        width: 821
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6615888d49ad7ab70800000000000000
+      internalID: 8910330720598643046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_26
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 4689
+        width: 422
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49264486d4fd67240800000000000000
+      internalID: 4789260777309889172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_27
+      rect:
+        serializedVersion: 2
+        x: 4863
+        y: 4865
+        width: 438
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d33fbe9c40f6230800000000000000
+      internalID: 3634128689604803936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_28
+      rect:
+        serializedVersion: 2
+        x: 5586
+        y: 4865
+        width: 1090
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d130be01ca41a2da0800000000000000
+      internalID: -5968935626875403491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_30
+      rect:
+        serializedVersion: 2
+        x: 4875
+        y: 4755
+        width: 414
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6436e214fa2747250800000000000000
+      internalID: 5941499905446929222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_31
+      rect:
+        serializedVersion: 2
+        x: 5563
+        y: 4755
+        width: 410
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89331495a4e49aeb0800000000000000
+      internalID: -4708145854207151208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_32
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 4755
+        width: 410
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4113961cf6be35250800000000000000
+      internalID: 5932343999395868948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 4501
+        width: 688
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4946f1223d4cce930800000000000000
+      internalID: 4173927365755233428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_34
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 4490
+        width: 711
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408e2f0dc05fa5860800000000000000
+      internalID: 7519591963242457092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_39
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 4255
+        width: 566
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c737ac60414544180800000000000000
+      internalID: -9132081699410513028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_40
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 4243
+        width: 590
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1862ec7bb838b00800000000000000
+      internalID: 829660377920209345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_41
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3227
+        width: 969
+        height: 1255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b07313a4f866cb40800000000000000
+      internalID: 5460166998150574262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_42
+      rect:
+        serializedVersion: 2
+        x: 4078
+        y: 3243
+        width: 969
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4761b315de487afe0800000000000000
+      internalID: -1177826622729152908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_43
+      rect:
+        serializedVersion: 2
+        x: 5340
+        y: 4196
+        width: 242
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70ff3dab1eb357c0800000000000000
+      internalID: -4083711411014864773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_44
+      rect:
+        serializedVersion: 2
+        x: 5555
+        y: 4243
+        width: 289
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cda636c5e81700e0800000000000000
+      internalID: -2303845309224669760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_45
+      rect:
+        serializedVersion: 2
+        x: 5813
+        y: 4196
+        width: 242
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af5c9dc55a66a890800000000000000
+      internalID: -7447148017056194651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_46
+      rect:
+        serializedVersion: 2
+        x: 6270
+        y: 3243
+        width: 964
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9866b7b2b7b57e20800000000000000
+      internalID: 3347783876234078364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_47
+      rect:
+        serializedVersion: 2
+        x: 7273
+        y: 4349
+        width: 122
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aa7c6dd5293a7a0800000000000000
+      internalID: -6367084516438725999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_48
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 4005
+        width: 566
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b47c39edd503250800000000000000
+      internalID: 5922336720535636870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_49
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 3993
+        width: 590
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b845cb71c8a3d1f30800000000000000
+      internalID: 4547855572082119819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_50
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 4017
+        width: 191
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdeefefebdd77120800000000000000
+      internalID: 2411639937871834569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_51
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 4017
+        width: 188
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fe2d79bed03c230800000000000000
+      internalID: 3657782627870633762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_52
+      rect:
+        serializedVersion: 2
+        x: 3852
+        y: 4017
+        width: 187
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d2d0da6e009efc0800000000000000
+      internalID: -3465237447539085945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_53
+      rect:
+        serializedVersion: 2
+        x: 5340
+        y: 3849
+        width: 715
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c2831fcf1c67400800000000000000
+      internalID: 321657715526478885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_59
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3755
+        width: 796
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1bc2376e8420980800000000000000
+      internalID: -8574210585948016155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_60
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 3743
+        width: 820
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145dc1f4783852aa0800000000000000
+      internalID: -6186393895952394943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_61
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 3735
+        width: 192
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f804911db40a31a0800000000000000
+      internalID: -6829140674863691529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_62
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 3735
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5954b3b37caf0f30800000000000000
+      internalID: 4544040161976277338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_63
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 3774
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c3fc8b919aebad0800000000000000
+      internalID: -2684522399926371320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_64
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 3774
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34078d44a3ae6800800000000000000
+      internalID: 607602925812253757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_65
+      rect:
+        serializedVersion: 2
+        x: 3852
+        y: 3774
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cfd17ec251d5810800000000000000
+      internalID: 1755582712344607896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_66
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 3599
+        width: 192
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251372e31ba9e9e00800000000000000
+      internalID: 1053449448893919570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_68
+      rect:
+        serializedVersion: 2
+        x: 6063
+        y: 3767
+        width: 191
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d3ddbd1cbdd45f0800000000000000
+      internalID: -770718335546606212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_69
+      rect:
+        serializedVersion: 2
+        x: 7242
+        y: 3767
+        width: 192
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce1215d1816d9da0800000000000000
+      internalID: -5936481523551035700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3505
+        width: 968
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9079368b30c153080800000000000000
+      internalID: -9208423060785096951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_72
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3493
+        width: 968
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31242436a74deef0800000000000000
+      internalID: -77326839430504130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_73
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 3532
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebc0470eb0464890800000000000000
+      internalID: -7474215346665108503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_74
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 3536
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c1e20222e985380800000000000000
+      internalID: -8982255587384484711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_75
+      rect:
+        serializedVersion: 2
+        x: 3852
+        y: 3536
+        width: 187
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192e7f27f7412f100800000000000000
+      internalID: 140197076024156817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_81
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3259
+        width: 546
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d5b6bb420d16ee0800000000000000
+      internalID: -1269504763759993479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_82
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 3247
+        width: 574
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d53ac9be39cad380800000000000000
+      internalID: -8945616438575876647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_83
+      rect:
+        serializedVersion: 2
+        x: 3223
+        y: 3349
+        width: 230
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ae94fa6645e58b0800000000000000
+      internalID: -5161595322915755417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_84
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 3224
+        width: 192
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6792bf6fe4745c0800000000000000
+      internalID: -4231326502208571690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_85
+      rect:
+        serializedVersion: 2
+        x: 5105
+        y: 3259
+        width: 290
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c867f1f2ef5b235a0800000000000000
+      internalID: -6542967205298997620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_86
+      rect:
+        serializedVersion: 2
+        x: 5414
+        y: 3259
+        width: 238
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef91f2084a3133f20800000000000000
+      internalID: 3401083740840991230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_87
+      rect:
+        serializedVersion: 2
+        x: 5695
+        y: 3220
+        width: 289
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838e7074f124dd370800000000000000
+      internalID: 8348901986317887544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_88
+      rect:
+        serializedVersion: 2
+        x: 6008
+        y: 3220
+        width: 242
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6838acb3dc64d03d0800000000000000
+      internalID: -3238854709724150906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_91
+      rect:
+        serializedVersion: 2
+        x: 3223
+        y: 3243
+        width: 160
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15a625e521d9edf0800000000000000
+      internalID: -150359151851690724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_92
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3009
+        width: 796
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a628ef62152ea59a0800000000000000
+      internalID: -6243429095221329302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_93
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 2997
+        width: 820
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706a8a4bc75ebadc0800000000000000
+      internalID: -3626552751147145721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_94
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 3016
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54ffe7ec23a70e70800000000000000
+      internalID: 9081406586881045596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_95
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 3016
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a371c802314429580800000000000000
+      internalID: -8821913871124261062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_96
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 3016
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cadba6a3c05d0ca0800000000000000
+      internalID: -6049089923243582781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_97
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 3016
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbdb40f5d8319ad0800000000000000
+      internalID: -2697312210307523636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_98
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 3138
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd15f3ee173c1230800000000000000
+      internalID: 3610821607057333697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_99
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 2989
+        width: 192
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5814089006065ded0800000000000000
+      internalID: -2389898061657652859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_100
+      rect:
+        serializedVersion: 2
+        x: 4438
+        y: 2989
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31488f31c903e030800000000000000
+      internalID: 3522670059133092157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_101
+      rect:
+        serializedVersion: 2
+        x: 4703
+        y: 2989
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b972bb4d7d139dc0800000000000000
+      internalID: -3633528050379753031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_102
+      rect:
+        serializedVersion: 2
+        x: 6352
+        y: 3028
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74243325ccb43dc0800000000000000
+      internalID: -3660093042260171654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_103
+      rect:
+        serializedVersion: 2
+        x: 6555
+        y: 3028
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d4f8cc6b0d0a370800000000000000
+      internalID: 8331888794169986442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_104
+      rect:
+        serializedVersion: 2
+        x: 6758
+        y: 3028
+        width: 187
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c98ce860604fef0800000000000000
+      internalID: -75428668523373447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_105
+      rect:
+        serializedVersion: 2
+        x: 6961
+        y: 3028
+        width: 187
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9201eefbe8612c050800000000000000
+      internalID: 5819238470877319209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_106
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2774
+        width: 547
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03d8e986150745e0800000000000000
+      internalID: -1925564721316441330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_107
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1680
+        width: 969
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b255eb79557f15930800000000000000
+      internalID: 4130354280265569579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_108
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 2786
+        width: 121
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce89419f601f85960800000000000000
+      internalID: 7591082184183945452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_110
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 1606
+        width: 969
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4904dac80536ef1b0800000000000000
+      internalID: -5620946087303102316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_111
+      rect:
+        serializedVersion: 2
+        x: 4797
+        y: 1680
+        width: 969
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c312b8e299473bcf0800000000000000
+      internalID: -237718154060816068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_112
+      rect:
+        serializedVersion: 2
+        x: 5801
+        y: 2786
+        width: 121
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9944f7a7c836b40800000000000000
+      internalID: 5432340033288051163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_121
+      rect:
+        serializedVersion: 2
+        x: 6863
+        y: 2591
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3805cc7cd38839e0800000000000000
+      internalID: -1641417081167214532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_122
+      rect:
+        serializedVersion: 2
+        x: 7324
+        y: 2591
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948e78e4fbf5921a0800000000000000
+      internalID: -6833825684297095095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_123
+      rect:
+        serializedVersion: 2
+        x: 7785
+        y: 2591
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5802210d2ea44d150800000000000000
+      internalID: 5896420150148735109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_124
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2551
+        width: 289
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6128314c21bb8db00800000000000000
+      internalID: 853637818660127254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_125
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 2591
+        width: 410
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebfef209f7f767b0800000000000000
+      internalID: -5230939793298359321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_126
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 2419
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67abb468d57c95d70800000000000000
+      internalID: 9032469732167236214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_127
+      rect:
+        serializedVersion: 2
+        x: 6457
+        y: 2473
+        width: 129
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62818ae65a07c1c20800000000000000
+      internalID: 3178539292845152294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_132
+      rect:
+        serializedVersion: 2
+        x: 5793
+        y: 2493
+        width: 301
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597ed42fb33b6c9a0800000000000000
+      internalID: -6213081565861386347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_133
+      rect:
+        serializedVersion: 2
+        x: 6137
+        y: 2509
+        width: 297
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeb1075f40194e80800000000000000
+      internalID: -8194000114075713814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_134
+      rect:
+        serializedVersion: 2
+        x: 6629
+        y: 2368
+        width: 422
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481d744a7ee1897c0800000000000000
+      internalID: -4064464683459423868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_135
+      rect:
+        serializedVersion: 2
+        x: 7090
+        y: 2368
+        width: 422
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af606b21f9fdfdd0800000000000000
+      internalID: -2450527808009506908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_136
+      rect:
+        serializedVersion: 2
+        x: 7551
+        y: 2368
+        width: 422
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8de5148902000a40800000000000000
+      internalID: 5332264198700658062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_137
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2329
+        width: 461
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a05ebdc85ff6f9d0800000000000000
+      internalID: -2740722566334361439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_138
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2380
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eddd51413f899e0800000000000000
+      internalID: -1614273198820565351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_139
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 2337
+        width: 410
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ffa07f703c585c0800000000000000
+      internalID: -4213747437358350539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_140
+      rect:
+        serializedVersion: 2
+        x: 5793
+        y: 2333
+        width: 187
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b40e6fd11299e20800000000000000
+      internalID: 3357751409761078026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_141
+      rect:
+        serializedVersion: 2
+        x: 6137
+        y: 2348
+        width: 297
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe80bedc051f1390800000000000000
+      internalID: -7845528880836210946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_142
+      rect:
+        serializedVersion: 2
+        x: 6457
+        y: 2309
+        width: 129
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e81dd17627c736a0800000000000000
+      internalID: -6469483371761428250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_143
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2290
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b966c3b9b37a9f0800000000000000
+      internalID: -457331299235488895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_145
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 2157
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00942ea4fba07460800000000000000
+      internalID: 7237473668566388749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_149
+      rect:
+        serializedVersion: 2
+        x: 6629
+        y: 2137
+        width: 422
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25024a3b7c33107d0800000000000000
+      internalID: -2954022947772948398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_150
+      rect:
+        serializedVersion: 2
+        x: 7090
+        y: 2137
+        width: 422
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46836317e6f43c0c0800000000000000
+      internalID: -4556711062204434332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_151
+      rect:
+        serializedVersion: 2
+        x: 7551
+        y: 2137
+        width: 422
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ede9ab4698e48b90800000000000000
+      internalID: -7240406568692748826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_152
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2106
+        width: 703
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4217d0286c74da110800000000000000
+      internalID: 1273753187526734116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_153
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2204
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3539f717c39837140800000000000000
+      internalID: 4716264127482270547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_154
+      rect:
+        serializedVersion: 2
+        x: 5793
+        y: 2172
+        width: 254
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9283ac4d2b73f0610800000000000000
+      internalID: 1589550434698803241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_155
+      rect:
+        serializedVersion: 2
+        x: 6137
+        y: 2188
+        width: 297
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f66ad63143de91f0800000000000000
+      internalID: -1036158587202017545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_156
+      rect:
+        serializedVersion: 2
+        x: 6457
+        y: 2149
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f35ae85806b05de0800000000000000
+      internalID: -1346376141616032783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_158
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 2090
+        width: 410
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370db28166c3d1b70800000000000000
+      internalID: 8871313250179600499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_159
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 1915
+        width: 188
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fc3ba5cca52ffb0800000000000000
+      internalID: -4615526834359775431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_160
+      rect:
+        serializedVersion: 2
+        x: 6160
+        y: 2012
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e1961b917f18440800000000000000
+      internalID: 4936498356297473620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_161
+      rect:
+        serializedVersion: 2
+        x: 6629
+        y: 1915
+        width: 422
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62295eb0c4d75d1c0800000000000000
+      internalID: -4479536488779509210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_162
+      rect:
+        serializedVersion: 2
+        x: 7090
+        y: 1915
+        width: 422
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3f80db8e5356d40800000000000000
+      internalID: 5576922987288392698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_163
+      rect:
+        serializedVersion: 2
+        x: 7551
+        y: 1915
+        width: 422
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e92c7eb5416d4040800000000000000
+      internalID: 4633466543810554342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_164
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1883
+        width: 316
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613032018b3ce6840800000000000000
+      internalID: 5219324213481112342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_165
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1883
+        width: 543
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05457e441097e380800000000000000
+      internalID: -8942020118230776564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_169
+      rect:
+        serializedVersion: 2
+        x: 5793
+        y: 2008
+        width: 293
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa28729b06150170800000000000000
+      internalID: 8143939740127210231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_170
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1661
+        width: 391
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7537cc58ca922940800000000000000
+      internalID: 5269944699317597562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_171
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 1735
+        width: 610
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a849d77227238b0800000000000000
+      internalID: -5173947507959100909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_172
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 1735
+        width: 200
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acf246994eedf0f0800000000000000
+      internalID: -1081446335678055257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_176
+      rect:
+        serializedVersion: 2
+        x: 6629
+        y: 1692
+        width: 422
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d8b64a5eaf2e300800000000000000
+      internalID: 280061991063358814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_177
+      rect:
+        serializedVersion: 2
+        x: 7090
+        y: 1692
+        width: 422
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629eea070e89ecfc0800000000000000
+      internalID: -3472670172925466330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_178
+      rect:
+        serializedVersion: 2
+        x: 7551
+        y: 1692
+        width: 422
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6634c9ea3139fa0800000000000000
+      internalID: -5795266654828796188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_179
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1438
+        width: 316
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4c127c0d58965b0800000000000000
+      internalID: -5374617548549405495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_180
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1438
+        width: 375
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7630f5a0e4505f500800000000000000
+      internalID: 429255172223337319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_181
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1469
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6c89faeb7664960800000000000000
+      internalID: 7585864691039651527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_182
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1469
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f114053db37d3f800800000000000000
+      internalID: 645095823592407327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_183
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1469
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2f6796c61f07110800000000000000
+      internalID: 1256769743964533453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_184
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 1524
+        width: 602
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2eddb9daa744910800000000000000
+      internalID: 1820715035427463876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_186
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 1387
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784c36d72498b8a50800000000000000
+      internalID: 6524459403840832647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_187
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 1387
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d72e3dea835f0c80800000000000000
+      internalID: -8354366927598114856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_188
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 1387
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498bbc2aaec9c8480800000000000000
+      internalID: -8895562632396031852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_189
+      rect:
+        serializedVersion: 2
+        x: 4973
+        y: 1473
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a717db002cbb5c980800000000000000
+      internalID: -8519196678190960262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_190
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 1473
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302437d6a3dcac4b0800000000000000
+      internalID: -5419293550758903293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_191
+      rect:
+        serializedVersion: 2
+        x: 5379
+        y: 1473
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9994801cb3205d30800000000000000
+      internalID: 4418070525088405916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_192
+      rect:
+        serializedVersion: 2
+        x: 6629
+        y: 1469
+        width: 422
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d999fd9e63d8a00800000000000000
+      internalID: 760324290202148211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_193
+      rect:
+        serializedVersion: 2
+        x: 7090
+        y: 1469
+        width: 422
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b49e571ca9f71e0800000000000000
+      internalID: -2197867937435923585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_194
+      rect:
+        serializedVersion: 2
+        x: 7551
+        y: 1469
+        width: 422
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d755a74524eff7a0800000000000000
+      internalID: -6341098901547427880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_195
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 1305
+        width: 629
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39526e3c230ca610800000000000000
+      internalID: 1633684253388724538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_197
+      rect:
+        serializedVersion: 2
+        x: 6629
+        y: 1250
+        width: 422
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c4dbf005f72fed0800000000000000
+      internalID: -2381701271087395836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_198
+      rect:
+        serializedVersion: 2
+        x: 7090
+        y: 1250
+        width: 422
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203e37215173994c0800000000000000
+      internalID: -4280329407195520254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_199
+      rect:
+        serializedVersion: 2
+        x: 7551
+        y: 1250
+        width: 422
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3677139838c4b1a70800000000000000
+      internalID: 8798710424824543075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_200
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 969
+        height: 1250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627e7b1e8f9b20cb0800000000000000
+      internalID: -4899148966035724506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_201
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 0
+        width: 965
+        height: 1250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869908249ef37f260800000000000000
+      internalID: 7131238806040123752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_202
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 0
+        width: 965
+        height: 1250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9c2c18db803af30800000000000000
+      internalID: 4585518455612164556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_203
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 0
+        width: 965
+        height: 1250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4138ce9b0fee5490800000000000000
+      internalID: -7755498675097816753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_204
+      rect:
+        serializedVersion: 2
+        x: 4406
+        y: 1032
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2188b1277202ee0800000000000000
+      internalID: -1287986122386304328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_205
+      rect:
+        serializedVersion: 2
+        x: 4605
+        y: 1032
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835078fde31509d40800000000000000
+      internalID: 5589056468046775608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_206
+      rect:
+        serializedVersion: 2
+        x: 4801
+        y: 1032
+        width: 191
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0432c00317d50db0800000000000000
+      internalID: -4826214949040540662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_207
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1032
+        width: 191
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e299c35e42457f60800000000000000
+      internalID: 8031398414665749222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_208
+      rect:
+        serializedVersion: 2
+        x: 5199
+        y: 1032
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d70c78f042dda70800000000000000
+      internalID: 8853272091600911749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_209
+      rect:
+        serializedVersion: 2
+        x: 5398
+        y: 1032
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf560a10acda82ac0800000000000000
+      internalID: -3879659995857394180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_210
+      rect:
+        serializedVersion: 2
+        x: 5598
+        y: 1032
+        width: 187
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94921c6a0a3dacc20800000000000000
+      internalID: 3227624769910286665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_211
+      rect:
+        serializedVersion: 2
+        x: 5793
+        y: 1032
+        width: 191
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa1cdcb8d34c26b0800000000000000
+      internalID: -5319802461670860126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_212
+      rect:
+        serializedVersion: 2
+        x: 5992
+        y: 1032
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756bc3a9f6ca144d0800000000000000
+      internalID: -3152048668853619113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_213
+      rect:
+        serializedVersion: 2
+        x: 6195
+        y: 1032
+        width: 192
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cbc84d1fb4115f0800000000000000
+      internalID: -787764957787931555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_214
+      rect:
+        serializedVersion: 2
+        x: 6395
+        y: 1032
+        width: 191
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5236c264b2213420800000000000000
+      internalID: 2607903817370841690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_215
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 1032
+        width: 191
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c578a2d60567658d0800000000000000
+      internalID: -2857966825719036068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_216
+      rect:
+        serializedVersion: 2
+        x: 6793
+        y: 1032
+        width: 187
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0839f54369d4d53b0800000000000000
+      internalID: -5522172260567248000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_217
+      rect:
+        serializedVersion: 2
+        x: 6988
+        y: 1032
+        width: 192
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0e3849e15bad9c0800000000000000
+      internalID: -3901606984217796386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_218
+      rect:
+        serializedVersion: 2
+        x: 7188
+        y: 1032
+        width: 191
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eea17a39f951b80800000000000000
+      internalID: -8424652071414075768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_219
+      rect:
+        serializedVersion: 2
+        x: 7387
+        y: 1032
+        width: 191
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f528763c140af230800000000000000
+      internalID: 3673252965293499893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_220
+      rect:
+        serializedVersion: 2
+        x: 7586
+        y: 1032
+        width: 187
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf9082e3079cd460800000000000000
+      internalID: 7267849941609914290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_221
+      rect:
+        serializedVersion: 2
+        x: 7785
+        y: 1032
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0926aec4f0d16b3a0800000000000000
+      internalID: -6650095848213814640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_222
+      rect:
+        serializedVersion: 2
+        x: 4406
+        y: 824
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663bfb8b7e3a7d030800000000000000
+      internalID: 3519461849445675878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_223
+      rect:
+        serializedVersion: 2
+        x: 4605
+        y: 824
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74b3a12778718220800000000000000
+      internalID: 2486400922346042493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_224
+      rect:
+        serializedVersion: 2
+        x: 4801
+        y: 824
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016c37556ee166990800000000000000
+      internalID: -7393187763657128432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_225
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 824
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5be91a40ec34250800000000000000
+      internalID: 5927808053836428708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_226
+      rect:
+        serializedVersion: 2
+        x: 5199
+        y: 824
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3ca626990b77790800000000000000
+      internalID: -7532357678926216243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_227
+      rect:
+        serializedVersion: 2
+        x: 5398
+        y: 824
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0471f930a4738f980800000000000000
+      internalID: -8504987105261316288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_228
+      rect:
+        serializedVersion: 2
+        x: 5598
+        y: 824
+        width: 187
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a15531a7480d3100800000000000000
+      internalID: 89236671357604256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_229
+      rect:
+        serializedVersion: 2
+        x: 5793
+        y: 824
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b579c9399646c6810800000000000000
+      internalID: 1759891959005878107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_230
+      rect:
+        serializedVersion: 2
+        x: 5992
+        y: 824
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173ecc26c9e450b30800000000000000
+      internalID: 4252891856700760945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_231
+      rect:
+        serializedVersion: 2
+        x: 6195
+        y: 824
+        width: 192
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1d3d08d1658bc80800000000000000
+      internalID: -8306794827969474132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_232
+      rect:
+        serializedVersion: 2
+        x: 6395
+        y: 824
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a89b8f751b64a0b0800000000000000
+      internalID: -5718327886775347035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_233
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 824
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db68f41363fabce0800000000000000
+      internalID: -1388529928211239981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_234
+      rect:
+        serializedVersion: 2
+        x: 6793
+        y: 824
+        width: 187
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6630cdca639dca0800000000000000
+      internalID: -5991697713186249023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_235
+      rect:
+        serializedVersion: 2
+        x: 6988
+        y: 824
+        width: 192
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca2a46b2af640470800000000000000
+      internalID: 8359929552940182222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_236
+      rect:
+        serializedVersion: 2
+        x: 7188
+        y: 824
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b731b1d03eb1330800000000000000
+      internalID: 3682786765733853959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_237
+      rect:
+        serializedVersion: 2
+        x: 7387
+        y: 824
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f62d6ec0ee89650800000000000000
+      internalID: 6239999022901391220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_238
+      rect:
+        serializedVersion: 2
+        x: 7586
+        y: 824
+        width: 187
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e97b6bfad951d4e0800000000000000
+      internalID: -1958685565873587740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_239
+      rect:
+        serializedVersion: 2
+        x: 7785
+        y: 824
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89b82647553ffbf0800000000000000
+      internalID: -288453202172921460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_240
+      rect:
+        serializedVersion: 2
+        x: 4406
+        y: 617
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4629c19d32a0ebf60800000000000000
+      internalID: 8051884332867687012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_241
+      rect:
+        serializedVersion: 2
+        x: 4605
+        y: 617
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953993b78dc2c2050800000000000000
+      internalID: 5777041730301432665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_242
+      rect:
+        serializedVersion: 2
+        x: 4801
+        y: 617
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b489e0321913b30800000000000000
+      internalID: 4265349901851315070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_243
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 617
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7694212e66298ab00800000000000000
+      internalID: 840082301081766247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_244
+      rect:
+        serializedVersion: 2
+        x: 5199
+        y: 617
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43e5d20028ec8960800000000000000
+      internalID: 7605709094906094413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_245
+      rect:
+        serializedVersion: 2
+        x: 5398
+        y: 617
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a04a64e23caf8b0800000000000000
+      internalID: -5117563423032079716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_246
+      rect:
+        serializedVersion: 2
+        x: 5598
+        y: 617
+        width: 187
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46bcf6ec9272ff20800000000000000
+      internalID: 3454949882362377804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_247
+      rect:
+        serializedVersion: 2
+        x: 5793
+        y: 617
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c6a872753e70340800000000000000
+      internalID: 4830079088843189382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_248
+      rect:
+        serializedVersion: 2
+        x: 5992
+        y: 617
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e301829f9b09bec0800000000000000
+      internalID: -3550794051219291163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_249
+      rect:
+        serializedVersion: 2
+        x: 6195
+        y: 617
+        width: 192
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd073a4fe0ade26a0800000000000000
+      internalID: -6471995856716074788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_250
+      rect:
+        serializedVersion: 2
+        x: 6395
+        y: 617
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ea37f53b7f922a0800000000000000
+      internalID: -6761601015747465630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_251
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 617
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74841550a7d9bfa00800000000000000
+      internalID: 791399306934437959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_252
+      rect:
+        serializedVersion: 2
+        x: 6793
+        y: 617
+        width: 187
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae0921b138a360b0800000000000000
+      internalID: -5736556568960758099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_253
+      rect:
+        serializedVersion: 2
+        x: 6988
+        y: 617
+        width: 192
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da98252ca04eef190800000000000000
+      internalID: -7926647559264499283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_254
+      rect:
+        serializedVersion: 2
+        x: 7188
+        y: 617
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c3e2581b299bfa0800000000000000
+      internalID: -5784430955239424961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_255
+      rect:
+        serializedVersion: 2
+        x: 7387
+        y: 617
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76ac18f3cf405bf0800000000000000
+      internalID: -337682268952942980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_256
+      rect:
+        serializedVersion: 2
+        x: 7586
+        y: 617
+        width: 187
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c1b6c066e0b4160800000000000000
+      internalID: 7010713076390108205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_257
+      rect:
+        serializedVersion: 2
+        x: 7785
+        y: 617
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a4cebd9a48b2880800000000000000
+      internalID: -8634661995478758753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_258
+      rect:
+        serializedVersion: 2
+        x: 4406
+        y: 406
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8518ad214ece92300800000000000000
+      internalID: 227973720471929176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_259
+      rect:
+        serializedVersion: 2
+        x: 4605
+        y: 406
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd619bb09a54cb200800000000000000
+      internalID: 197109076045928156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_260
+      rect:
+        serializedVersion: 2
+        x: 4801
+        y: 406
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8315b57311aa68150800000000000000
+      internalID: 5874569754871288120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_261
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 406
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4778eaf7596cd7010800000000000000
+      internalID: 1188324222090250100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_262
+      rect:
+        serializedVersion: 2
+        x: 5199
+        y: 406
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcc5a93456a93650800000000000000
+      internalID: 6213180041608940763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_263
+      rect:
+        serializedVersion: 2
+        x: 5398
+        y: 406
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1ed688dc27cbfb0800000000000000
+      internalID: -4630700089760947763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_264
+      rect:
+        serializedVersion: 2
+        x: 5598
+        y: 406
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e582fe40b346c6450800000000000000
+      internalID: 6083347401319327838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_265
+      rect:
+        serializedVersion: 2
+        x: 5793
+        y: 406
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e0f6dd0817a5720800000000000000
+      internalID: 2835703713667944015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_266
+      rect:
+        serializedVersion: 2
+        x: 5992
+        y: 406
+        width: 188
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b92127046be71ee0800000000000000
+      internalID: -1290303953369486928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_267
+      rect:
+        serializedVersion: 2
+        x: 6195
+        y: 406
+        width: 192
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a84171c60aabc90800000000000000
+      internalID: -7153228672020477333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_268
+      rect:
+        serializedVersion: 2
+        x: 6395
+        y: 406
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229142dbac4fe8fe0800000000000000
+      internalID: -1184740500358031070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_269
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 406
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d20ca4971c8d4d70800000000000000
+      internalID: 9029026860854149848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_270
+      rect:
+        serializedVersion: 2
+        x: 6793
+        y: 406
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5b62cc7e717b0a0800000000000000
+      internalID: -6865992822573058640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_271
+      rect:
+        serializedVersion: 2
+        x: 6988
+        y: 406
+        width: 192
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4229218ea0e94c60800000000000000
+      internalID: 7803014869491982925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_272
+      rect:
+        serializedVersion: 2
+        x: 7188
+        y: 406
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4645365a8392e4200800000000000000
+      internalID: 166115559528944740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_273
+      rect:
+        serializedVersion: 2
+        x: 7387
+        y: 406
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d3b5d23ee2c1d90800000000000000
+      internalID: -7125768957153559268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_274
+      rect:
+        serializedVersion: 2
+        x: 7586
+        y: 406
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215594ca259726590800000000000000
+      internalID: -7682444618355878638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_275
+      rect:
+        serializedVersion: 2
+        x: 7785
+        y: 406
+        width: 188
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f92fb2072b9ca10800000000000000
+      internalID: 1930270110148370220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_276
+      rect:
+        serializedVersion: 2
+        x: 4406
+        y: 215
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77b16f09891f9650800000000000000
+      internalID: 6241735685018072956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_277
+      rect:
+        serializedVersion: 2
+        x: 4605
+        y: 215
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e2605e2059bec10800000000000000
+      internalID: 2083923092253847093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_278
+      rect:
+        serializedVersion: 2
+        x: 4801
+        y: 215
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a09dedc36a7babb0800000000000000
+      internalID: -4923707198524256089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_279
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 215
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1336e1dfada1562e0800000000000000
+      internalID: -2133269320638241999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_280
+      rect:
+        serializedVersion: 2
+        x: 5199
+        y: 215
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48709ab08d69267a0800000000000000
+      internalID: -6385375467005212796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_281
+      rect:
+        serializedVersion: 2
+        x: 5398
+        y: 215
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c1acbdeee536b60800000000000000
+      internalID: 7738132964735327348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_282
+      rect:
+        serializedVersion: 2
+        x: 5598
+        y: 215
+        width: 187
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f0074dfa3975be0800000000000000
+      internalID: -1488558768429986010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_283
+      rect:
+        serializedVersion: 2
+        x: 5793
+        y: 215
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6fe41407a0cd440800000000000000
+      internalID: 4961852366703752884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_284
+      rect:
+        serializedVersion: 2
+        x: 5992
+        y: 215
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b9782595ee22300800000000000000
+      internalID: 226004998726065011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_285
+      rect:
+        serializedVersion: 2
+        x: 6195
+        y: 211
+        width: 192
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcbef0a1f6f5a050800000000000000
+      internalID: 5811322411840093403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_286
+      rect:
+        serializedVersion: 2
+        x: 6395
+        y: 211
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa3fdaf671ee5690800000000000000
+      internalID: -7611398419078235402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_287
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 211
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269a79802250a6f50800000000000000
+      internalID: 6875313424865667426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_288
+      rect:
+        serializedVersion: 2
+        x: 6793
+        y: 211
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711edd1900acfde80800000000000000
+      internalID: -8151574696721260265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_289
+      rect:
+        serializedVersion: 2
+        x: 6988
+        y: 211
+        width: 192
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b645bd0a62bdd7f30800000000000000
+      internalID: 4575053755432260715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_290
+      rect:
+        serializedVersion: 2
+        x: 7188
+        y: 211
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be78838eb7463f950800000000000000
+      internalID: 6481634772056049643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_291
+      rect:
+        serializedVersion: 2
+        x: 7387
+        y: 211
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6281fb9b63cd750800000000000000
+      internalID: 6330995347578955428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_292
+      rect:
+        serializedVersion: 2
+        x: 7586
+        y: 211
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93195451b718aae0800000000000000
+      internalID: -1537953222355250276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_293
+      rect:
+        serializedVersion: 2
+        x: 7785
+        y: 215
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52727c89c0af65b0800000000000000
+      internalID: -5372899042924531108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_294
+      rect:
+        serializedVersion: 2
+        x: 4406
+        y: 4
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc21ea853fd3a8c0800000000000000
+      internalID: -3989099423863853835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_295
+      rect:
+        serializedVersion: 2
+        x: 4605
+        y: 4
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e0775f69bce1060800000000000000
+      internalID: 6926197126166154818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_296
+      rect:
+        serializedVersion: 2
+        x: 4801
+        y: 4
+        width: 191
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cb8b26ea81f1350800000000000000
+      internalID: 5989533166685699220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_297
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4
+        width: 191
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a8f49f7deb61160800000000000000
+      internalID: 6995988905976629835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_298
+      rect:
+        serializedVersion: 2
+        x: 5199
+        y: 4
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d00150fc018f620800000000000000
+      internalID: 2808012848994716929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_299
+      rect:
+        serializedVersion: 2
+        x: 5398
+        y: 4
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6b672a316c4dcc0800000000000000
+      internalID: -3687104407277226332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_300
+      rect:
+        serializedVersion: 2
+        x: 5598
+        y: 4
+        width: 187
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c745db815aa9f8c0800000000000000
+      internalID: -3964950729707927609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_301
+      rect:
+        serializedVersion: 2
+        x: 5793
+        y: 4
+        width: 191
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b355714939e278c0800000000000000
+      internalID: -4002880686658333767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_302
+      rect:
+        serializedVersion: 2
+        x: 5992
+        y: 8
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cac6665459d0390800000000000000
+      internalID: -7850454450133226420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_303
+      rect:
+        serializedVersion: 2
+        x: 6195
+        y: 4
+        width: 192
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5927c804f17c5f80800000000000000
+      internalID: -8116487135495247523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_304
+      rect:
+        serializedVersion: 2
+        x: 6395
+        y: 4
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d22dce3432f5200800000000000000
+      internalID: 170894085506346395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_305
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 4
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e84594303406a90800000000000000
+      internalID: -7322779312710185327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_306
+      rect:
+        serializedVersion: 2
+        x: 6793
+        y: 4
+        width: 187
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51bcb39e740e10c0800000000000000
+      internalID: -4603236827435060901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_307
+      rect:
+        serializedVersion: 2
+        x: 6988
+        y: 4
+        width: 192
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e2065df91fe0df0800000000000000
+      internalID: -211966463657890294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_308
+      rect:
+        serializedVersion: 2
+        x: 7188
+        y: 4
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c7aa23a03dcbda0800000000000000
+      internalID: -5927630968773247952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_309
+      rect:
+        serializedVersion: 2
+        x: 7387
+        y: 4
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897c042c0c2716430800000000000000
+      internalID: 3774424134931498904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_310
+      rect:
+        serializedVersion: 2
+        x: 7586
+        y: 4
+        width: 187
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b19b6be3604a6e0800000000000000
+      internalID: -1827328682382255314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIEasyFREEApart_311
+      rect:
+        serializedVersion: 2
+        x: 7785
+        y: 4
+        width: 188
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eeb02acbb97fab00800000000000000
+      internalID: 842025502798560998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GameGUIEasyFREEApart_261: 1188324222090250100
+      GameGUIEasyFREEApart_143: -457331299235488895
+      GameGUIEasyFREEApart_66: 1053449448893919570
+      GameGUIEasyFREEApart_227: -8504987105261316288
+      GameGUIEasyFREEApart_206: -4826214949040540662
+      GameGUIEasyFREEApart_259: 197109076045928156
+      GameGUIEasyFREEApart_296: 5989533166685699220
+      GameGUIEasyFREEApart_64: 607602925812253757
+      GameGUIEasyFREEApart_3: 6131788772371553166
+      GameGUIEasyFREEApart_225: 5927808053836428708
+      GameGUIEasyFREEApart_281: 7738132964735327348
+      GameGUIEasyFREEApart_81: -1269504763759993479
+      GameGUIEasyFREEApart_62: 4544040161976277338
+      GameGUIEasyFREEApart_309: 3774424134931498904
+      GameGUIEasyFREEApart_85: -6542967205298997620
+      GameGUIEasyFREEApart_92: -6243429095221329302
+      GameGUIEasyFREEApart_5: 5653804776046006105
+      GameGUIEasyFREEApart_195: 1633684253388724538
+      GameGUIEasyFREEApart_53: 321657715526478885
+      GameGUIEasyFREEApart_32: 5932343999395868948
+      GameGUIEasyFREEApart_220: 7267849941609914290
+      GameGUIEasyFREEApart_258: 227973720471929176
+      GameGUIEasyFREEApart_293: -5372899042924531108
+      GameGUIEasyFREEApart_263: -4630700089760947763
+      GameGUIEasyFREEApart_190: -5419293550758903293
+      GameGUIEasyFREEApart_52: -3465237447539085945
+      GameGUIEasyFREEApart_71: -9208423060785096951
+      GameGUIEasyFREEApart_33: 4173927365755233428
+      GameGUIEasyFREEApart_282: -1488558768429986010
+      GameGUIEasyFREEApart_183: 1256769743964533453
+      GameGUIEasyFREEApart_169: 8143939740127210231
+      GameGUIEasyFREEApart_252: -5736556568960758099
+      GameGUIEasyFREEApart_155: -1036158587202017545
+      GameGUIEasyFREEApart_240: 8051884332867687012
+      GameGUIEasyFREEApart_105: 5819238470877319209
+      GameGUIEasyFREEApart_124: 853637818660127254
+      GameGUIEasyFREEApart_48: 5922336720535636870
+      GameGUIEasyFREEApart_223: 2486400922346042493
+      GameGUIEasyFREEApart_253: -7926647559264499283
+      GameGUIEasyFREEApart_102: -3660093042260171654
+      GameGUIEasyFREEApart_42: -1177826622729152908
+      GameGUIEasyFREEApart_74: -8982255587384484711
+      GameGUIEasyFREEApart_127: 3178539292845152294
+      GameGUIEasyFREEApart_265: 2835703713667944015
+      GameGUIEasyFREEApart_242: 4265349901851315070
+      GameGUIEasyFREEApart_213: -787764957787931555
+      GameGUIEasyFREEApart_256: 7010713076390108205
+      GameGUIEasyFREEApart_302: -7850454450133226420
+      GameGUIEasyFREEApart_34: 7519591963242457092
+      GameGUIEasyFREEApart_44: -2303845309224669760
+      GameGUIEasyFREEApart_178: -5795266654828796188
+      GameGUIEasyFREEApart_303: -8116487135495247523
+      GameGUIEasyFREEApart_276: 6241735685018072956
+      GameGUIEasyFREEApart_247: 4830079088843189382
+      GameGUIEasyFREEApart_46: 3347783876234078364
+      GameGUIEasyFREEApart_68: -770718335546606212
+      GameGUIEasyFREEApart_244: 7605709094906094413
+      GameGUIEasyFREEApart_87: 8348901986317887544
+      GameGUIEasyFREEApart_138: -1614273198820565351
+      GameGUIEasyFREEApart_123: 5896420150148735109
+      GameGUIEasyFREEApart_241: 5777041730301432665
+      GameGUIEasyFREEApart_107: 4130354280265569579
+      GameGUIEasyFREEApart_112: 5432340033288051163
+      GameGUIEasyFREEApart_199: 8798710424824543075
+      GameGUIEasyFREEApart_16: 705950097445976738
+      GameGUIEasyFREEApart_226: -7532357678926216243
+      GameGUIEasyFREEApart_308: -5927630968773247952
+      GameGUIEasyFREEApart_237: 6239999022901391220
+      GameGUIEasyFREEApart_264: 6083347401319327838
+      GameGUIEasyFREEApart_7: 4333784128749080702
+      GameGUIEasyFREEApart_192: 760324290202148211
+      GameGUIEasyFREEApart_194: -6341098901547427880
+      GameGUIEasyFREEApart_297: 6995988905976629835
+      GameGUIEasyFREEApart_269: 9029026860854149848
+      GameGUIEasyFREEApart_219: 3673252965293499893
+      GameGUIEasyFREEApart_243: 840082301081766247
+      GameGUIEasyFREEApart_280: -6385375467005212796
+      GameGUIEasyFREEApart_189: -8519196678190960262
+      GameGUIEasyFREEApart_0: -1500535153005674084
+      GameGUIEasyFREEApart_214: 2607903817370841690
+      GameGUIEasyFREEApart_273: -7125768957153559268
+      GameGUIEasyFREEApart_96: -6049089923243582781
+      GameGUIEasyFREEApart_95: -8821913871124261062
+      GameGUIEasyFREEApart_132: -6213081565861386347
+      GameGUIEasyFREEApart_222: 3519461849445675878
+      GameGUIEasyFREEApart_289: 4575053755432260715
+      GameGUIEasyFREEApart_202: 4585518455612164556
+      GameGUIEasyFREEApart_152: 1273753187526734116
+      GameGUIEasyFREEApart_198: -4280329407195520254
+      GameGUIEasyFREEApart_294: -3989099423863853835
+      GameGUIEasyFREEApart_24: 1348777239366011624
+      GameGUIEasyFREEApart_224: -7393187763657128432
+      GameGUIEasyFREEApart_251: 791399306934437959
+      GameGUIEasyFREEApart_203: -7755498675097816753
+      GameGUIEasyFREEApart_187: -8354366927598114856
+      GameGUIEasyFREEApart_145: 7237473668566388749
+      GameGUIEasyFREEApart_94: 9081406586881045596
+      GameGUIEasyFREEApart_63: -2684522399926371320
+      GameGUIEasyFREEApart_69: -5936481523551035700
+      GameGUIEasyFREEApart_91: -150359151851690724
+      GameGUIEasyFREEApart_103: 8331888794169986442
+      GameGUIEasyFREEApart_209: -3879659995857394180
+      GameGUIEasyFREEApart_121: -1641417081167214532
+      GameGUIEasyFREEApart_13: 8067660689272698126
+      GameGUIEasyFREEApart_75: 140197076024156817
+      GameGUIEasyFREEApart_159: -4615526834359775431
+      GameGUIEasyFREEApart_270: -6865992822573058640
+      GameGUIEasyFREEApart_305: -7322779312710185327
+      GameGUIEasyFREEApart_82: -8945616438575876647
+      GameGUIEasyFREEApart_291: 6330995347578955428
+      GameGUIEasyFREEApart_26: 4789260777309889172
+      GameGUIEasyFREEApart_84: -4231326502208571690
+      GameGUIEasyFREEApart_235: 8359929552940182222
+      GameGUIEasyFREEApart_221: -6650095848213814640
+      GameGUIEasyFREEApart_260: 5874569754871288120
+      GameGUIEasyFREEApart_158: 8871313250179600499
+      GameGUIEasyFREEApart_177: -3472670172925466330
+      GameGUIEasyFREEApart_72: -77326839430504130
+      GameGUIEasyFREEApart_255: -337682268952942980
+      GameGUIEasyFREEApart_304: 170894085506346395
+      GameGUIEasyFREEApart_232: -5718327886775347035
+      GameGUIEasyFREEApart_43: -4083711411014864773
+      GameGUIEasyFREEApart_250: -6761601015747465630
+      GameGUIEasyFREEApart_93: -3626552751147145721
+      GameGUIEasyFREEApart_8: -5980102286227260810
+      GameGUIEasyFREEApart_236: 3682786765733853959
+      GameGUIEasyFREEApart_215: -2857966825719036068
+      GameGUIEasyFREEApart_100: 3522670059133092157
+      GameGUIEasyFREEApart_211: -5319802461670860126
+      GameGUIEasyFREEApart_110: -5620946087303102316
+      GameGUIEasyFREEApart_111: -237718154060816068
+      GameGUIEasyFREEApart_141: -7845528880836210946
+      GameGUIEasyFREEApart_274: -7682444618355878638
+      GameGUIEasyFREEApart_275: 1930270110148370220
+      GameGUIEasyFREEApart_268: -1184740500358031070
+      GameGUIEasyFREEApart_83: -5161595322915755417
+      GameGUIEasyFREEApart_306: -4603236827435060901
+      GameGUIEasyFREEApart_197: -2381701271087395836
+      GameGUIEasyFREEApart_65: 1755582712344607896
+      GameGUIEasyFREEApart_108: 7591082184183945452
+      GameGUIEasyFREEApart_249: -6471995856716074788
+      GameGUIEasyFREEApart_193: -2197867937435923585
+      GameGUIEasyFREEApart_161: -4479536488779509210
+      GameGUIEasyFREEApart_149: -2954022947772948398
+      GameGUIEasyFREEApart_205: 5589056468046775608
+      GameGUIEasyFREEApart_125: -5230939793298359321
+      GameGUIEasyFREEApart_295: 6926197126166154818
+      GameGUIEasyFREEApart_49: 4547855572082119819
+      GameGUIEasyFREEApart_137: -2740722566334361439
+      GameGUIEasyFREEApart_153: 4716264127482270547
+      GameGUIEasyFREEApart_279: -2133269320638241999
+      GameGUIEasyFREEApart_61: -6829140674863691529
+      GameGUIEasyFREEApart_284: 226004998726065011
+      GameGUIEasyFREEApart_9: 4032251586774714481
+      GameGUIEasyFREEApart_271: 7803014869491982925
+      GameGUIEasyFREEApart_28: -5968935626875403491
+      GameGUIEasyFREEApart_134: -4064464683459423868
+      GameGUIEasyFREEApart_262: 6213180041608940763
+      GameGUIEasyFREEApart_47: -6367084516438725999
+      GameGUIEasyFREEApart_99: -2389898061657652859
+      GameGUIEasyFREEApart_172: -1081446335678055257
+      GameGUIEasyFREEApart_238: -1958685565873587740
+      GameGUIEasyFREEApart_6: 2970232777584890941
+      GameGUIEasyFREEApart_266: -1290303953369486928
+      GameGUIEasyFREEApart_191: 4418070525088405916
+      GameGUIEasyFREEApart_216: -5522172260567248000
+      GameGUIEasyFREEApart_60: -6186393895952394943
+      GameGUIEasyFREEApart_160: 4936498356297473620
+      GameGUIEasyFREEApart_267: -7153228672020477333
+      GameGUIEasyFREEApart_142: -6469483371761428250
+      GameGUIEasyFREEApart_229: 1759891959005878107
+      GameGUIEasyFREEApart_14: 3847218119944301338
+      GameGUIEasyFREEApart_22: 2576762455334148566
+      GameGUIEasyFREEApart_176: 280061991063358814
+      GameGUIEasyFREEApart_212: -3152048668853619113
+      GameGUIEasyFREEApart_179: -5374617548549405495
+      GameGUIEasyFREEApart_156: -1346376141616032783
+      GameGUIEasyFREEApart_2: 1189815555537406221
+      GameGUIEasyFREEApart_301: -4002880686658333767
+      GameGUIEasyFREEApart_106: -1925564721316441330
+      GameGUIEasyFREEApart_39: -9132081699410513028
+      GameGUIEasyFREEApart_136: 5332264198700658062
+      GameGUIEasyFREEApart_257: -8634661995478758753
+      GameGUIEasyFREEApart_17: -4236100907985016816
+      GameGUIEasyFREEApart_285: 5811322411840093403
+      GameGUIEasyFREEApart_292: -1537953222355250276
+      GameGUIEasyFREEApart_150: -4556711062204434332
+      GameGUIEasyFREEApart_298: 2808012848994716929
+      GameGUIEasyFREEApart_311: 842025502798560998
+      GameGUIEasyFREEApart_245: -5117563423032079716
+      GameGUIEasyFREEApart_171: -5173947507959100909
+      GameGUIEasyFREEApart_30: 5941499905446929222
+      GameGUIEasyFREEApart_4: -1290652668178000763
+      GameGUIEasyFREEApart_201: 7131238806040123752
+      GameGUIEasyFREEApart_51: 3657782627870633762
+      GameGUIEasyFREEApart_283: 4961852366703752884
+      GameGUIEasyFREEApart_246: 3454949882362377804
+      GameGUIEasyFREEApart_217: -3901606984217796386
+      GameGUIEasyFREEApart_50: 2411639937871834569
+      GameGUIEasyFREEApart_207: 8031398414665749222
+      GameGUIEasyFREEApart_290: 6481634772056049643
+      GameGUIEasyFREEApart_228: 89236671357604256
+      GameGUIEasyFREEApart_73: -7474215346665108503
+      GameGUIEasyFREEApart_181: 7585864691039651527
+      GameGUIEasyFREEApart_12: -8073027158121993945
+      GameGUIEasyFREEApart_204: -1287986122386304328
+      GameGUIEasyFREEApart_104: -75428668523373447
+      GameGUIEasyFREEApart_231: -8306794827969474132
+      GameGUIEasyFREEApart_278: -4923707198524256089
+      GameGUIEasyFREEApart_310: -1827328682382255314
+      GameGUIEasyFREEApart_300: -3964950729707927609
+      GameGUIEasyFREEApart_188: -8895562632396031852
+      GameGUIEasyFREEApart_59: -8574210585948016155
+      GameGUIEasyFREEApart_287: 6875313424865667426
+      GameGUIEasyFREEApart_254: -5784430955239424961
+      GameGUIEasyFREEApart_98: 3610821607057333697
+      GameGUIEasyFREEApart_239: -288453202172921460
+      GameGUIEasyFREEApart_11: -1777292356221173383
+      GameGUIEasyFREEApart_15: 573915991961691546
+      GameGUIEasyFREEApart_21: 5019230505803794443
+      GameGUIEasyFREEApart_86: 3401083740840991230
+      GameGUIEasyFREEApart_307: -211966463657890294
+      GameGUIEasyFREEApart_126: 9032469732167236214
+      GameGUIEasyFREEApart_139: -4213747437358350539
+      GameGUIEasyFREEApart_40: 829660377920209345
+      GameGUIEasyFREEApart_1: -3424511382403314734
+      GameGUIEasyFREEApart_234: -5991697713186249023
+      GameGUIEasyFREEApart_186: 6524459403840832647
+      GameGUIEasyFREEApart_165: -8942020118230776564
+      GameGUIEasyFREEApart_164: 5219324213481112342
+      GameGUIEasyFREEApart_10: -3766370388156592990
+      GameGUIEasyFREEApart_41: 5460166998150574262
+      GameGUIEasyFREEApart_122: -6833825684297095095
+      GameGUIEasyFREEApart_248: -3550794051219291163
+      GameGUIEasyFREEApart_88: -3238854709724150906
+      GameGUIEasyFREEApart_272: 166115559528944740
+      GameGUIEasyFREEApart_25: 8910330720598643046
+      GameGUIEasyFREEApart_140: 3357751409761078026
+      GameGUIEasyFREEApart_27: 3634128689604803936
+      GameGUIEasyFREEApart_31: -4708145854207151208
+      GameGUIEasyFREEApart_101: -3633528050379753031
+      GameGUIEasyFREEApart_288: -8151574696721260265
+      GameGUIEasyFREEApart_218: -8424652071414075768
+      GameGUIEasyFREEApart_299: -3687104407277226332
+      GameGUIEasyFREEApart_180: 429255172223337319
+      GameGUIEasyFREEApart_133: -8194000114075713814
+      GameGUIEasyFREEApart_162: 5576922987288392698
+      GameGUIEasyFREEApart_208: 8853272091600911749
+      GameGUIEasyFREEApart_135: -2450527808009506908
+      GameGUIEasyFREEApart_200: -4899148966035724506
+      GameGUIEasyFREEApart_45: -7447148017056194651
+      GameGUIEasyFREEApart_210: 3227624769910286665
+      GameGUIEasyFREEApart_286: -7611398419078235402
+      GameGUIEasyFREEApart_170: 5269944699317597562
+      GameGUIEasyFREEApart_233: -1388529928211239981
+      GameGUIEasyFREEApart_163: 4633466543810554342
+      GameGUIEasyFREEApart_154: 1589550434698803241
+      GameGUIEasyFREEApart_277: 2083923092253847093
+      GameGUIEasyFREEApart_184: 1820715035427463876
+      GameGUIEasyFREEApart_97: -2697312210307523636
+      GameGUIEasyFREEApart_151: -7240406568692748826
+      GameGUIEasyFREEApart_182: 645095823592407327
+      GameGUIEasyFREEApart_230: 4252891856700760945
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
